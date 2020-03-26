@@ -1,0 +1,2 @@
+Use myNewDB;
+SELECT * FROM Students WHERE PostalCode BETWEEN '40001' AND '99999';
